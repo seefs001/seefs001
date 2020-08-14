@@ -6,6 +6,3 @@
 - 📫 How to reach me:  [Telegram](https://t.me/seefs_cn)
 - 😄 Pronouns: he / him
 - ⚡ Hobby : Coding / Anime
-
-
-![seefs001's github stats](https://github-readme-stats-mvmucz66g.vercel.app/api?username=seefs001&count_private=true&show_icons=true)
